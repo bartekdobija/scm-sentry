@@ -27,7 +27,7 @@ In this stage you should be able to call scm-sentry in the terminal and see the 
 [superuser@central.company.com]$ scm-sentry
 this account does not provide shell access
 ```
-Congratullations, scm-sentry is installed.
+Congratulations, scm-sentry is installed.
 
 #### Repository account setup
 Now, as the scm-sentry has been integrated in the system you musy setup the account that will accept key-based authentication.
